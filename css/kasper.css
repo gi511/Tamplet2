@@ -418,11 +418,13 @@ padding: 15px 0;
  .portfolio{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
+    margin: auto;
  }
 
  .portfolio .shuffle{
     display: flex;
     justify-content: center;
+   
  }
 
  .portfolio .shuffle li{
